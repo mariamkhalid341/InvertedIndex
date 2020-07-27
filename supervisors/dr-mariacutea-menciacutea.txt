@@ -1,0 +1,67 @@
+About
+I am an artist-researcher in Media Arts and Digital Poetics and the Course Leader of the BA in Media and Communication.  My doctorate was one of the first practice-based research in the field of electronic poetry and language-art (2000-2003) and I have continued to explore the poetic space in hybrid textualities of language, art and digital technologies. My practice has been exhibited worldwide, and it is published in the ELC1 and the ELMCIP Anthology of European Electronic Literature. 
+Prizes:
+The Robert Coover Award for a Work of Electronic Literature, 2nd Place,The Winnipeg: The Poem that Crossed the Atlantic, (August 2018).
+https://eliterature.org/2018/08/announcing-the-winners-of-the-2018-elo-prize/
+The N. Katherine Hayles Award for Criticism of Electronic Literature, 2nd Place for my publication #WomenTechLit, (Computing Literature, West Virginia University Press, 2017) (July, 2017). http://dtc-wsuv.org/elo-prize/past-winners/ and https://eliterature.org/2018/08/announcing-the-winners-of-the-2018-elo-prize/
+'Gateway to the World': a data visualisation poetic piece selected as example of good practice in digital literature by KVB boekwerk (the Dutch knowledge and innovation platform for the book sector) and the Dutch Foundation for Literature, 2017
+https://www.kvbboekwerk.nl/?s=digital+literature
+Research grants:
+In May 2018, AHRC grant, 'Memory, Victims, and Representation of the Colombian Conflict' focusing on women's voices to collaborate with Prof Claire Taylor from Liverpool University and project partners from Grupo de Investigación COMBA I+D, Universidad Santiago de Cali, Universidad de Vigo, España- Pedagogical and Technological University. Other grants to conduct research at international institutions include:
+Information Studies & Digital Design, School of Communication and Culture, Aarhus University, Denmark;
+Laboratory: COSTECH Technologies and Human Sciences (TSH) Department, University of Technology of Compiegne (France);
+Royal Melbourne Institute of Technology (RMIT) in Melbourne, Australia (AHRC Small Grants);
+The University of Sydney, Australia (TIES Grant) and Media Research Lab -New York University, NY, USA (Promising Researcher Fellowship by Kingston University.
+I am one of the team members of "Translating Electronic Literature: A Transatlantic Program in Collaborative Digital Humanities" (2017-2018), a research project funded by the Fondation Maison des Sciences de l'Homme (FMSH) and the Andrew Mellon Foundation.
+I am frequently involved in international events, including keynote presentations and I have taken part in more than fifty conferences, curated exhibitions and led pedagogic, programming research clusters and research projects in collaborative practice.
+I am one of the executive members of the Electronic Literature Organisation Board of Directors (ELO) and book editor for the "Electronic Literature" series with ELO- Bloomsbury Press. My practice-based research is at the intersection of language, art and digital technology. It explores inter-linguistic and multimodal digital textualities, digital media grammars, virtual poetic spaces and the reader's/viewer's engagement in an experience of shifting ‘in' and ‘out' of language by looking ‘at' and looking ‘through' transparent and abstract landscapes of text and linguistic soundscapes.
+It draws from conceptual art, avant-garde poetics, remediating concepts of reading and writing (from the print, to the screen to installations spaces) and exploring digital media grammars (voice activation, use of webcam, use of mouse, acts of revealing, triggering, cut and paste, dragging) for interactivity, aesthetics, creation of virtual poetic spaces, engagement and meaning production.
+It is trans-disciplinary, bringing together different cultural, artistic and literary traditions such as: fine art, linguistics, translation, visual, concrete and sound poetry, with digital poetics, electronic writing, creative programming, interaction and interface design, new media art theories and practices. My practice includes interactive digital media installations, performances, web-based works, sound-generated poems, interactive generative narratives and data visualisation poetics. The themes are varied with an interest in the relationship between experimentation, social issues, art and literature and I am very interested in producing site-specific pieces. Thus, my research outputs cover a selection of theory and practice as exemplified by the publications outlined. http://www.mariamencia.com/documents/MARIA%20MENCIA_publications.pdf
+Research student supervision
+Mr Daniele Giampà
+Publications
+Jump to: Article | Book | Book Section | Conference or Workshop Item | Exhibition | Moving Image/Broadcast
+Number of items: 36.
+Article
+Mencia, Maria (2019) The Winnipeg : the poem that crossed the Atlantic. Hyperrhiz : New Media Cultures, 20, ISSN (online) 1555-9351
+Portela, Manuel, Mencia, Maria and Pold, Soren (2018) Electronic literature translation : translation as process, experience and mediation. Electronic Book Review, ISSN (online) 1553-1139
+Mencia, Maria (2016) Gateway to the world : data visualisation poetics. GRAMMA : Journal of Theory and Criticism, 23, pp. 145-157. ISSN (online) 1106-1170
+Mencia, Maria (2011) Connected memories : contextualising creative research practice. Journal of Writing in Creative Practice, 4(1), pp. 37-51. ISSN (print) 1753-5190
+Mencia, Maria (2011) From the page to the screen to augmented reality: new modes of language-driven technology-mediated research. Journal of Writing in Creative Practice, 4(1), pp. 3-7. ISSN (print) 1753-5190
+Mencia, Maria [Creator] (2006) Birds singing other birds' songs. Electronic Literature Collection, 1, ISSN (online) 1932-2011
+Book
+Mencia, Maria, ed. (2017) #WomenTechLit. Morgantown, U.S. : West Virginia University Press. 456p. (CompuLit) ISBN 9781943665907
+Mencia, Maria and Husarova, Zuzana, eds. (2015) Creative manual for repurposing in electronic literature. Kosice, Slovakia : Dive Buki. 104p. (ENTER) ISBN 9788089677054
+Book Section
+Mencia, Maria (2017) Creative process : interweaving methods, content and technology. In: Cortes Maduro, Daniela, (ed.) Digital media and textuality : from creation to archiving. Bielefeld, Germany : transcript. pp. 133-150. (Media upheavals, no. 45) ISBN 9783837604915
+Mencia, Maria (2017) Introduction to #WomenTechLit. In: Mencia, Maria, (ed.) #WomenTechLit. Morgantown, U.S. : West Virginia University Press. pp. xiii-xx. (CompuLit) ISBN 9781943665907
+Mencia, Maria (2017) Transient self-portrait : the data self. In: Mencia, Maria, (ed.) #WomenTechLit. Morgantown, U.S. : West Virginia University Press. pp. 189-209. (Computing literature) ISBN 9781943665907
+Mencia, Maria (2017) #WomenTechLit. In: Mencia, Maria, (ed.) #WomenTechLit. Morgantown, U.S. : West Virginia University Press. pp. Xiii-XX. (CompuLit) ISBN 9781943665907
+Mencia, Maria (2015) Connected memories. In: Mencia, Maria and Husarova, Zuzana, (eds.) Creative manual for repurposing in electronic literature. Kosice, Slovakia : Dive Buki. pp. 32-35. (ENTER, no. 16) ISBN 9788089677054
+Mencia, Maria (2015) Upsidedown chandelier. In: Mencia, Maria and Husarova, Zuzana, (eds.) Creative manual for repurposing in electronic literature. Kosice, Slovakia : Dive Buki. pp. 78-81. (ENTER, no. 16) ISBN 9788089677054
+Mencia, Maria (2014) Excerpts from "From digital poetry to digital art: image-sound-text, convergent media, and the development of new media languages". In: Elkins, James, (ed.) Artists with PhDs : on the new doctoral degree in studio art. 2nd ed. Washington, U.S. : New Academia Publishing. pp. 419-428. ISBN 9780991504756
+Mencia, Maria (2011) New Media ArtPoetry: A reflection on practice. In: Masucci, Lello and di Rosario, Giovanna, (eds.) OLE Officina di Lettertura Elettronica. Naples, Italy : Atelier Multimediale Edizioni. pp. 332-347. ISBN 9788890564000
+Conference or Workshop Item
+Mencia, Maria (2016) E-Lit practice and pedagogy : interweaving methods, content and technology. In: ICDMT 2016 : International Conference on Digital Media and Textuality; 03 - 05 Nov 2016, Bremen, Germany. (Unpublished)
+Mencia, Maria [Artist] (2016) LitArt : Poeticas Digitales : Creacion e Investigacion. In: Paraules pixelades : La literatura en l’era digital; 28 Jan - 10 Apr 2016, Barcelona, Spain.
+Mencia, Maria [Speaker] (2012) ReadWrite digital textualities: searching for new languages. In: MIX: A Conference Exploring Transmedia Writing & Digital Creativity; 16 - 18 Jul 2012, Bath, U.K.. (Unpublished)
+Mencia, Maria (2011) New Media Art/Poetry: A textu(r)al surface. In: E-Literature and New Media Art; 22-23 Sep 2011, Ljubljana, Slovenia. (Unpublished)
+Mencia, Maria [Artist] (2011) The surface materiality: performing generative writing. In: e-poetry 2011: International Digital Language, Media, Arts Festival; 18 - 21 May 2011, Buffalo, U.S..
+Mencia, Maria [Speaker] (2011) Open meaning in digital writing. In: Open Media Research Seminar series; 8 Feb 2011, Coventry, U.K..
+Mencia, Maria (2009) Connected memories : addressing questions and issues that evolve around the use of technology as a participatory and inviting medium to perform and share stories with other participants. In: The network as a space and medium for collaborative interdisciplinary art practice; 08 - 10 Nov 2009, Bergen, Norway. (Unpublished)
+Mencia, Maria (2009) Connected memories. In: ISEA2009: 15th International Symposium on Electronic Art; 26 - 29 Aug 2009, Belfast, Northern Ireland. (Unpublished)
+Mencia, Maria (2002) Generating Chirography in an electronic surface. In: Digital Surface: Approaches to current research in contemporary art practice; 27-28 June 2003, Tate Britain, London, UK. (Unpublished)
+Exhibition
+Mencia, Maria [Curator of an exhibition] and Husarova, Zuzana [Curator of an exhibition] (2013) Repurposing in electronic literature. Repurposing in electronic literature. .
+Mencia, Maria [Artist], Naji, Jeneen [Artist], Wilks, Christine [Artist] and Husarova, Zuzana [Artist] (2013) UpsideDown Chandelier. .
+Mencia, Maria [Artist] and Raskob, Evan [Programmer] (2011) The Alphabetic. OLE Officiana di Lettertura Elettronica. .
+Mencia, Maria [Artist] and Szekely, Alexander [Programmer] (2010) Generative poems. .
+Mencia, Maria [Artist] (2009) Reading rebooted. Reading Rebooted. .
+Mencia, Maria [Artist] (2002) Another Kind of Language. DIFFERENTIA. , 01-31 May 2002 , Pitshanger Manor Gallery & House, London, UK.
+Moving Image/Broadcast
+Mencia, Maria [Artist] and Dupuis, Alex [Programmer] (2018) The Winnipeg : The Poem that Crossed the Atlantic. (Website).
+Mencia, Maria [Artist] (2016) Transient Self-Portrait : The Data-Self. (Website).
+Mencia, Maria [Artist] and Auberson, Pascal [Programmer] (2014) Gateway to the world. (Website).
+Mencia, Maria (2009) Connected memories. (interactive digital art/narrative).
+Mencia, Maria [Artist] (2001) Birds singing other birds' songs. (prints, video and interactive work).
+This list was generated on Mon Jul 20 05:15:00 2020 BST.

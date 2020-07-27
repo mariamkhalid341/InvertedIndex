@@ -1,0 +1,209 @@
+PROFILE
+I am the Professor of Internet Geography at the Oxford Internet Institute, a Faculty Fellow at the Alan Turing Institute, a Senior Research Fellow at Green Templeton College, a Research Affiliate in the University of Oxford’s School of Geography and the Environment, a Research Associate at the Centre for Information Technology and National Development in Africa at the University of Cape Town, and a Visiting Researcher at Wissenschaftszentrum Berlin für Sozialforschung and Technische Universität Berlin. I lead a range of research projects spanning topics between digital labour, the gig economy, internet geographies, and ICTs and development; and am accepting PhD students with an interest in any of that work.
+About My Research
+I have led three large-scale multi-country studies (including a five-year ERC Starting Grant), which examine the production networks of digital work. This research analyses how workers in the world’s economic margins are enrolled into global value chains and a planetary labour market (for instance, looking at how Kenyan data entry workers or Filipino personal assistants are an integral part of some of the world’s most important digital production networks). It then seeks to examine how the networked and geographic positionalities of those workers impact on the working conditions that they experience.
+Together with colleagues on three continents, I have started a participatory action research project called the Fairwork Foundation. This initiative, which I founded in 2018 and now run together with a group of labour lawyers and labour sociologists, has now grown to an international project team of 22 people. It has brought together key stakeholders around the world – including workers, trade unions, platforms, and policy makers – to set minimum fair work standards for the gig economy. Using a transparent methodology and a collectively-determined scoring system, we score gig economy work platforms and conduct extensive qualitative research on working conditions prior to releasing the scores. As of 2020, the project has successfully been piloted in Germany, India and South Africa, enjoining major platforms to make changes to their conditions (e.g. implementing minimum wages) in order to receive a higher score. The project will also be launching in the UK, Chile, Indonesia, and Ecuador later in 2020 (see https://fair.work/ for more information).
+Previous research has focused on digital entrepreneurship and the ways that conditions in African cities shape practices of local entrepreneurs (as part of a large project about African ‘knowledge economies‘), and on how the internet can impact production networks (of tea, tourism, and outsourcing) in East Africa, and asked who wins and loses from those changes. I lead the ‘Digital Inequality Group‘ of researchers at Oxford.
+Digital Geographies is my most long-standing research area. I ask how people and places are ever more defined by, and made visible through, not only their traditional physical locations and properties, but also their virtual attributes and digital shadows. If the places that we live in are increasingly digital, then there are important questions about who controls, and has access to, our digitally-augmented and digitally-mediated worlds. I have written extensively about this topic in both the academic and popular press and maintain a collection of maps of internet geographies.
+I serve as an editor of the journal Environment and Planning A, and am an editorial board member of Information, Communication & Society, Geo: Geography and Environment, Television and New Media, Big Data & Society, Global Perspectives, Digital Geography and Society, and Work Organisation, Labour and Globalisation.
+Teaching
+I teach a course at the OII called ‘Economic Development in Digital Capitalism‘ that focuses on the winners and losers in the contexts of rapidly changing global connectivity. The course examines how the digital economy can impact on the economic positionalities of people and practices at economic peripheries. I have previously taught courses on: Advanced Qualitative Research, Social Research Methods and the Internet, Globalisation, Introduction to Human Geography, the Collection and Analysis of Geographic Data, Economic Geography, and GIS.
+Awards
+I am grateful to have had much of my research Oxford funded by donors such as the European Research Council, the ESRC, the British Academy, the German Federal Ministry for Economic Cooperation and Development, IDRC, NSF, and the Leverhulme Trust. I am also fortunate to have been able to work with a diverse, creative, and smart group of scholars and activists.
+Other
+I try to maintain a blog to regularly share thoughts Oxford and new outputs. If you want to get in touch, you can find my contact details on this page.
+I come from a working class background, and feel strongly about the roles that an elite university like Oxford can (and should) play in broadly disseminating knowledge beyond its walls, and in attempting to amplify the voices of traditionally marginalised groups. Students and colleagues in similar situations, my door is open.
+Recent books
+Woodcock, J. and Graham, M. 2019. The Gig Economy: A Critical Introduction. Cambridge: Polity.
+Graham, M, Kitchin, R., Mattern, S., and Shaw, J. (eds). 2019. How to Run a City Like Amazon, and Other Fables. London: Meatspace Press.
+Graham, M and Dutton, W. H. (eds). 2019. Society and the Internet: How Networks of Information and Communication are Changing our Lives (second edition). Oxford: Oxford University Press.
+Graham, M. (ed). 2019. Digital Economies at Global Margins. Cambridge MA: MIT Press.
+Select Current Writing
+Graham, M. 2020. Regulate, replicate, and resist – The conjunctural geographies of platform urbanism. Urban Geography. 
+Graham, M., and Anwar, M. A. 2019. The Global Gig Economy: Towards a Planetary Labour Market? First Monday. 24(4). doi.org/10.5210/fm.v24i4.9913.
+Graham, M., Hjorth, I., Lehdonvirta, V. 2017. Digital labour and development: impacts of global digital labour platforms and the gig economy on worker livelihoods. Transfer: European Review of Labour and Research. https://doi.org/10.1177/1024258916687250.
+Graham, M., Straumann, R., Hogan, B. 2016. Digital Divisions of Labor and Informational Magnetism: Mapping Participation in Wikipedia. Annals of the Association of American Geographers. 105(6) 1158-1178. doi:10.1080/00045608.2015.1072791.(pre-publication version here)
+Graham, M., De Sabbata, S., Zook, M. 2015. Towards a study of information geographies:(im)mutable augmentations and a mapping of the geographies of information Geo: Geography and Environment.2(1) 88-105. doi:10.1002/geo2.8
+Graham, M. 2015. Contradictory Connectivity: Spatial Imaginaries and Techno-Mediated Positionalities in Kenya’s Outsourcing Sector. Environment and Planning A 47 867-883 (pre-publication version here).
+For more of my writing, please visit my full list of publications.
+Positions held at the OII
+Professor of Internet Geography, July 2016 –
+Senior Research Fellow and Associate Professor, May 2014 – June 2016
+Senior Research Fellow, August 2013 – May 2014
+Director of Research, October 2012 – December 2013
+Research Fellow, October 2009 – July 2013
+Students supervised at the OII
+Current students
+Khairunnisa Haji Ibrahim
+Margie Cheesman
+Sanna Ojanperä
+Joe Shaw
+Fabian Ferrari
+Marie-Therese Png
+Past students
+Dr Heather Ford
+Dr Nicolas Friederici Profile
+Research
+Publications
+Teaching
+Videos
+News
+Events
+Blog
+Press
+Integrity
+RESEARCH
+Current projects
+GCRF Decent Work: FAIRWORK in the Platform Economy in the Global South
+Participants: Prof D'Arcy Du Toit, Prof Sandra Fredman, Prof Mark Graham, Prof Richard Heeks, Prof Jean-Paul Van Belle, Dr Jamie Woodcock
+This project aims to understand the contextual, contractual and practical nature of platform work, to identify its shortfall from decent work standards and to contribute to the development of its governance and regulation.
+A Fairwork Foundation: Towards fair work in the platform economy
+Participants: Professor Mark Graham, Dr Jamie Woodcock, Adam Badger
+The Fairwork Foundation will certify online labour platforms, using leverage from workers, consumers, and platforms to improve the welfare and job quality of digital workers.
+Past projects
+GeoNet: Changing Connectivities and the Potentials of Sub-Saharan Africa’s Knowledge Economy
+Participants: Professor Mark Graham, Dr Stefano De Sabbata, Nicolas Friederici, Dr Christopher Foster, Sanna Ojanperä, Dr Mohammad Amir Anwar, Dr Fabian Braesemann, Michel Wahome
+This research project is examining the geographies, drivers, and effects of Sub-Saharan Africa's emerging information economies at a time of changing connectivity and Internet access across the region.
+Internet Geographies Leverhulme Prize
+Participants: Prof Mark Graham, Dr Martin Dittus
+As digital augmentations of our world become ever more embedded into everyday life, this project asks where they are, what they are, and who owns, controls, and can shape them.
+Economic Geographies of the Darknet
+Participants: Professor Mark Graham, Dr Joss Wright, Martin Dittus
+This project investigates the economic geographies of illegal economic activities in anonymous internet marketplaces.
+Wikipedia’s Networks and Geographies: Representation and Power in Peer-Produced Content
+Participants: Dr Han-Teng Liao, Dr Bernie Hogan, Professor Mark Graham, Dr Scott A. Hale, Dr Heather Ford
+This project brings together OII research fellows and doctoral students to shed light on the incorporation of new users and information into the Wikipedia community.
+Wikichains: Encouraging Transparency in Commodity Chains
+Participants: Professor Mark Graham, Dr Steve New, Joe Shaw
+Wikichains is a website that aims to encourage ethical consumption and transparency in commodity chains, by encouraging Internet users from around the world to upload text, images, sounds, and videos of any node on any commodity chain.
+Internet Geographies: Data Shadows and Digital Divisions of Labour
+Participants: Professor Mark Graham, Joshua Melville, Dr Stefano De Sabbata
+This project maps and measures the geographies of information on the Internet.
+Big Data and Human Development
+Participants: Professor Mark Graham, Dr Fabian Braesemann
+The big data and human development research network aims to investigate the potential uses of 'big data' for advancing human development and addressing equity gaps.
+Microwork and Virtual Production Networks in Sub-Saharan Africa and Southeast Asia
+Participants: Professor Mark Graham, Dr Isis Hjorth, Professor Vili Lehdonvirta, Dr Alex J Wood, Professor Helena Barnard
+This project aims to understand the implications of gig economy and online freelancing for economic development.
+Geography of Digital Inequality
+Participants: Professor Mark Graham, Dr Grant Blank, Claudio Calvino
+This project combined OxIS and census data to produce the first detailed geographic estimates of Internet use across the UK.
+Development and Broadband Internet Access in East Africa
+Participants: Professor Mark Graham, Dr Laura Elizabeth Mann, Dr Christopher Foster, Professor Tim Waema, Charles Katua, Dr Felix Akorli, Claude Bizimana
+By using surveys, interviews and in-depth observations, this project examined the expectations and stated potentials of broadband Internet in East Africa and compared those expectations to on-the-ground effects that broadband connectivity is having.
+Does Wikipedia represent ‘the sum of all human knowledge’? Examining the geographical scope of a peer-produced encyclopedia
+Participants: Professor Mark Graham, Dr Heather Ford, Brent Hecht, Dave Musicant, Shilad Sen
+This project aims to develop a set of lenses for analyzing Wikipedia’s geographical scope whilst employing a reflexive analytical process to expose the makings of the ‘big data’ that we will produce.
+Who represents the Arab world online? Mapping and measuring local knowledge production and representation in the Middle East and North Africa
+Participants: Dr Bernie Hogan, Professor Mark Graham, Richard Farmbrough, Clarence Singleton, Dr Heather Ford, Dr Ilhem Allagui, Dr Ali Frihida, Ahmed Medhat Mohamed
+Using Wikipedia to explore the participation gap between those who have their say, and those whose voices are pushed to the side, in representations of the Arab world online.
+Using Twitter to Map and Measure Online Cultural Diffusion
+Participants: Professor Mark Graham, Dr Scott A. Hale, Devin Gaffney, Dr Ning Wang
+This project is using Twitter data to comprehensively uncover where Internet content is being created; whether the amount of content created in different places is changing over time; and how content moves across time and space in the Social Web.
+Interactive Visualizations for Teaching, Research, and Dissemination
+Participants: Professor Helen Margetts, Professor Mark Graham, Dr Scott A. Hale, Dr Monica Bulger, Joshua Melville
+"InteractiveVis" aims to support easy creation of interactive visualisations for geospatial and network data by researchers: it will survey existing solutions, build currently missing features, and smooth over incompatibilities between existing libraries.PROFILE
+I am the Professor of Internet Geography at the Oxford Internet Institute, a Faculty Fellow at the Alan Turing Institute, a Senior Research Fellow at Green Templeton College, a Research Affiliate in the University of Oxford’s School of Geography and the Environment, a Research Associate at the Centre for Information Technology and National Development in Africa at the University of Cape Town, and a Visiting Researcher at Wissenschaftszentrum Berlin für Sozialforschung and Technische Universität Berlin. I lead a range of research projects spanning topics between digital labour, the gig economy, internet geographies, and ICTs and development; and am accepting PhD students with an interest in any of that work.
+About My Research
+I have led three large-scale multi-country studies (including a five-year ERC Starting Grant), which examine the production networks of digital work. This research analyses how workers in the world’s economic margins are enrolled into global value chains and a planetary labour market (for instance, looking at how Kenyan data entry workers or Filipino personal assistants are an integral part of some of the world’s most important digital production networks). It then seeks to examine how the networked and geographic positionalities of those workers impact on the working conditions that they experience.
+Together with colleagues on three continents, I have started a participatory action research project called the Fairwork Foundation. This initiative, which I founded in 2018 and now run together with a group of labour lawyers and labour sociologists, has now grown to an international project team of 22 people. It has brought together key stakeholders around the world – including workers, trade unions, platforms, and policy makers – to set minimum fair work standards for the gig economy. Using a transparent methodology and a collectively-determined scoring system, we score gig economy work platforms and conduct extensive qualitative research on working conditions prior to releasing the scores. As of 2020, the project has successfully been piloted in Germany, India and South Africa, enjoining major platforms to make changes to their conditions (e.g. implementing minimum wages) in order to receive a higher score. The project will also be launching in the UK, Chile, Indonesia, and Ecuador later in 2020 (see https://fair.work/ for more information).
+Previous research has focused on digital entrepreneurship and the ways that conditions in African cities shape practices of local entrepreneurs (as part of a large project about African ‘knowledge economies‘), and on how the internet can impact production networks (of tea, tourism, and outsourcing) in East Africa, and asked who wins and loses from those changes. I lead the ‘Digital Inequality Group‘ of researchers at Oxford.
+Digital Geographies is my most long-standing research area. I ask how people and places are ever more defined by, and made visible through, not only their traditional physical locations and properties, but also their virtual attributes and digital shadows. If the places that we live in are increasingly digital, then there are important questions about who controls, and has access to, our digitally-augmented and digitally-mediated worlds. I have written extensively about this topic in both the academic and popular press and maintain a collection of maps of internet geographies.
+I serve as an editor of the journal Environment and Planning A, and am an editorial board member of Information, Communication & Society, Geo: Geography and Environment, Television and New Media, Big Data & Society, Global Perspectives, Digital Geography and Society, and Work Organisation, Labour and Globalisation.
+Teaching
+I teach a course at the OII called ‘Economic Development in Digital Capitalism‘ that focuses on the winners and losers in the contexts of rapidly changing global connectivity. The course examines how the digital economy can impact on the economic positionalities of people and practices at economic peripheries. I have previously taught courses on: Advanced Qualitative Research, Social Research Methods and the Internet, Globalisation, Introduction to Human Geography, the Collection and Analysis of Geographic Data, Economic Geography, and GIS.
+Awards
+I am grateful to have had much of my research funded by donors such as the European Research Council, the ESRC, the British Academy, the German Federal Ministry for Economic Cooperation and Development, IDRC, NSF, and the Leverhulme Trust. I am also fortunate to have been able to work with a diverse, creative, and smart group of scholars and activists.
+Other
+I try to maintain a blog to regularly share thoughts and new outputs. If you want to get in touch, you can find my contact details on this page.
+I come from a working class background, and feel strongly about the roles that an elite university like Oxford can (and should) play in broadly disseminating knowledge beyond its walls, and in attempting to amplify the voices of traditionally marginalised groups. Students and colleagues in similar situations, my door is open.
+Recent books
+Woodcock, J. and Graham, M. 2019. The Gig Economy: A Critical Introduction. Cambridge: Polity.
+Graham, M, Kitchin, R., Mattern, S., and Shaw, J. (eds). 2019. How to Run a City Like Amazon, and Other Fables. London: Meatspace Press.
+Graham, M and Dutton, W. H. (eds). 2019. Society and the Internet: How Networks of Information and Communication are Changing our Lives (second edition). Oxford: Oxford University Press.
+Graham, M. (ed). 2019. Digital Economies at Global Margins. Cambridge MA: MIT Press.
+Select Current Writing
+Graham, M. 2020. Regulate, replicate, and resist – The conjunctural geographies of platform urbanism. Urban Geography. 
+Graham, M., and Anwar, M. A. 2019. The Global Gig Economy: Towards a Planetary Labour Market? First Monday. 24(4). doi.org/10.5210/fm.v24i4.9913.
+Graham, M., Hjorth, I., Lehdonvirta, V. 2017. Digital labour and development: impacts of global digital labour platforms and the gig economy on worker livelihoods. Transfer: European Review of Labour and Research. https://doi.org/10.1177/1024258916687250.
+Graham, M., Straumann, R., Hogan, B. 2016. Digital Divisions of Labor and Informational Magnetism: Mapping Participation in Wikipedia. Annals of the Association of American Geographers. 105(6) 1158-1178. doi:10.1080/00045608.2015.1072791.(pre-publication version here)
+Graham, M., De Sabbata, S., Zook, M. 2015. Towards a study of information geographies:(im)mutable augmentations and a mapping of the geographies of information Geo: Geography and Environment.2(1) 88-105. doi:10.1002/geo2.8
+Graham, M. 2015. Contradictory Connectivity: Spatial Imaginaries and Techno-Mediated Positionalities in Kenya’s Outsourcing Sector. Environment and Planning A 47 867-883 (pre-publication version here).
+For more of my writing, please visit my full list of publications.
+Positions held at the OII
+Professor of Internet Geography, July 2016 –
+Senior Research Fellow and Associate Professor, May 2014 – June 2016
+Senior Research Fellow, August 2013 – May 2014
+Director of Research, October 2012 – December 2013
+Research Fellow, October 2009 – July 2013
+Students supervised at the OII
+Current students
+Khairunnisa Haji Ibrahim
+Margie Cheesman
+Sanna Ojanperä
+Joe Shaw
+Fabian Ferrari
+Marie-Therese Png
+Past students
+Dr Heather Ford
+Dr Nicolas Friederici Profile
+Research
+Publications
+Teaching
+Videos
+News
+Events
+Blog
+Press
+Integrity
+RESEARCH
+Current projects
+GCRF Decent Work: FAIRWORK in the Platform Economy in the Global South
+Participants: Prof D'Arcy Du Toit, Prof Sandra Fredman, Prof Mark Graham, Prof Richard Heeks, Prof Jean-Paul Van Belle, Dr Jamie Woodcock
+This project aims to understand the contextual, contractual and practical nature of platform work, to identify its shortfall from decent work standards and to contribute to the development of its governance and regulation.
+A Fairwork Foundation: Towards fair work in the platform economy
+Participants: Professor Mark Graham, Dr Jamie Woodcock, Adam Badger
+The Fairwork Foundation will certify online labour platforms, using leverage from workers, consumers, and platforms to improve the welfare and job quality of digital workers.
+Past projects
+GeoNet: Changing Connectivities and the Potentials of Sub-Saharan Africa’s Knowledge Economy
+Participants: Professor Mark Graham, Dr Stefano De Sabbata, Nicolas Friederici, Dr Christopher Foster, Sanna Ojanperä, Dr Mohammad Amir Anwar, Dr Fabian Braesemann, Michel Wahome
+This research project is examining the geographies, drivers, and effects of Sub-Saharan Africa's emerging information economies at a time of changing connectivity and Internet access across the region.
+Internet Geographies Leverhulme Prize
+Participants: Prof Mark Graham, Dr Martin Dittus
+As digital augmentations of our world become ever more embedded into everyday life, this project asks where they are, what they are, and who owns, controls, and can shape them.
+Economic Geographies of the Darknet
+Participants: Professor Mark Graham, Dr Joss Wright, Martin Dittus
+This project investigates the economic geographies of illegal economic activities in anonymous internet marketplaces.
+Wikipedia’s Networks and Geographies: Representation and Power in Peer-Produced Content
+Participants: Dr Han-Teng Liao, Dr Bernie Hogan, Professor Mark Graham, Dr Scott A. Hale, Dr Heather Ford
+This project brings together OII research fellows and doctoral students to shed light on the incorporation of new users and information into the Wikipedia community.
+Wikichains: Encouraging Transparency in Commodity Chains
+Participants: Professor Mark Graham, Dr Steve New, Joe Shaw
+Wikichains is a website that aims to encourage ethical consumption and transparency in commodity chains, by encouraging Internet users from around the world to upload text, images, sounds, and videos of any node on any commodity chain.
+Internet Geographies: Data Shadows and Digital Divisions of Labour
+Participants: Professor Mark Graham, Joshua Melville, Dr Stefano De Sabbata
+This project maps and measures the geographies of information on the Internet.
+Big Data and Human Development
+Participants: Professor Mark Graham, Dr Fabian Braesemann
+The big data and human development research network aims to investigate the potential uses of 'big data' for advancing human development and addressing equity gaps.
+Microwork and Virtual Production Networks in Sub-Saharan Africa and Southeast Asia
+Participants: Professor Mark Graham, Dr Isis Hjorth, Professor Vili Lehdonvirta, Dr Alex J Wood, Professor Helena Barnard
+This project aims to understand the implications of gig economy and online freelancing for economic development.
+Geography of Digital Inequality
+Participants: Professor Mark Graham, Dr Grant Blank, Claudio Calvino
+This project combined OxIS and census data to produce the first detailed geographic estimates of Internet use across the UK.
+Development and Broadband Internet Access in East Africa
+Participants: Professor Mark Graham, Dr Laura Elizabeth Mann, Dr Christopher Foster, Professor Tim Waema, Charles Katua, Dr Felix Akorli, Claude Bizimana
+By using surveys, interviews and in-depth observations, this project examined the expectations and stated potentials of broadband Internet in East Africa and compared those expectations to on-the-ground effects that broadband connectivity is having.
+Does Wikipedia represent ‘the sum of all human knowledge’? Examining the geographical scope of a peer-produced encyclopedia
+Participants: Professor Mark Graham, Dr Heather Ford, Brent Hecht, Dave Musicant, Shilad Sen
+This project aims to develop a set of lenses for analyzing Wikipedia’s geographical scope whilst employing a reflexive analytical process to expose the makings of the ‘big data’ that we will produce.
+Who represents the Arab world online? Mapping and measuring local knowledge production and representation in the Middle East and North Africa
+Participants: Dr Bernie Hogan, Professor Mark Graham, Richard Farmbrough, Clarence Singleton, Dr Heather Ford, Dr Ilhem Allagui, Dr Ali Frihida, Ahmed Medhat Mohamed
+Using Wikipedia to explore the participation gap between those who have their say, and those whose voices are pushed to the side, in representations of the Arab world online.
+Using Twitter to Map and Measure Online Cultural Diffusion
+Participants: Professor Mark Graham, Dr Scott A. Hale, Devin Gaffney, Dr Ning Wang
+This project is using Twitter data to comprehensively uncover where Internet content is being created; whether the amount of content created in different places is changing over time; and how content moves across time and space in the Social Web.
+Interactive Visualizations for Teaching, Research, and Dissemination
+Participants: Professor Helen Margetts, Professor Mark Graham, Dr Scott A. Hale, Dr Monica Bulger, Joshua Melville
+"InteractiveVis" aims to support easy creation of interactive visualisations for geospatial and network data by researchers: it will survey existing solutions, build currently missing features, and smooth over incompatibilities between existing libraries.

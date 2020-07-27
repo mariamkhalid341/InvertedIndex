@@ -1,0 +1,38 @@
+PROFILE
+Bernie Hogan (PhD Toronto, 2009) is a Senior Research Fellow at the OII and Research Associate at the Department of Sociology. With training in sociology and computer science, Hogan focuses on how social networks and social media can be designed to empower people to build stronger relationships and stronger communities.
+Hogan’s theoretical work was among the first to identify the role of the social media platform as curator and to distinguish certain social media as the ‘real name web’. His practical work has shown how network visualizations can reveal new information to individuals from their social media data. He believes that the way networked information comes us in feeds is akin to being given a route through social space. This might get us where we want to go, but to truly empower people we need to see the map, not only the route along the way.
+Hogan’s innovations in social network analysis began with his work at NetLab at the University of Toronto. With Barry Wellman and fellow graduate students, he introduced participant-aided sociograms as a means to capture social networks with pen and paper. He subsequently applied this to social media, and especially Facebook with the introduction of NameGenWeb, a Facebook network visualizer (with Joshua Melville). The second generation of this visualizer, CollegeConnect, was empirically shown to help high school students reveal social resources in their networks. Most recently, with Melville and collaborators at the Institute for Sexual and Gender Minority Health and Wellbeing at Northwestern University, he has been working on Network Canvas. This software makes the collection of self-reported network data accessible to non-technical researchers.
+Hogan has published in a wide variety of venues, from peer-reviewed papers in sociology journals (such as Social Networks, City and Community, Bulletin of Science Technology and Society, and Field Methods), in computer science proceedings (such as CHI, ICWSM, and CSCW) and related disciplines, particularly geography (with papers in Environment and Planning B, the Annals of the Association of American Geographers and Tijdschrift voor Economische en Sociale Geografie) and communication (with papers in New Media & Society, Social Media + Society, International Journal of Communication, and Information, Communication and Society). This is in addition to many chapters in books, grey literature reports and public opinion pieces. He is on the editorial boards of Social Media + Society, Journal of Computer-Mediated Communication and Social Networks.
+Public dissemination of research is a core part of Hogan’s work. With colleagues, he has worked with UK therapy organizations, Tavistock and Relate to produce guidelines on internet infidelity for patients and practitioners. He has also published related work in the Journal of Marital and Family Therapy. He has been featured on BBC 1 morning and Newsnight, ITV, Channel 4, Channel 5, Vice and NBC in America. He is routinely featured on BBC 4 radio including as a mentor in Radio 4’s So You Want to Be a Scientist. He has given keynotes at conferences in France, UK, Switzerland and Japan.
+As an academic Hogan is keen on service to the University and the wider academic community. He has run small academic seminars on Internet and Relationships at the OII as well as hosting the International Conference on Web and Social Media at Oxford in 2015. He was previously program chair for ICWSM in 2013 and 2014 and is currently a member of the ICWSM steering committee.
+Many of Hogan’s papers can be found at his ssrn page and registered on his Google scholar. His ORCID is here. He is currently accepting graduate students on his active interests of names and naming practices, egocentric social networks, network visualizations, politics of social media and social identity, especially identity issues relating to gender and sexual minorities. Profile
+Research
+Publications
+Teaching
+Videos
+News
+Events
+Blog
+Press
+Integrity
+RESEARCH
+Current projects
+Network Canvas: Development, Hardening, and Dissemination of a Software Suite for the Collection of Complex Network and Contextual Data in HIV and Drug Research
+Participants: Dr Bernie Hogan, Dr Michelle Birkett, Dr Gregory Phillips II, Dr Patrick Janulis, Professor Noshir Contractor, Joshua Melville
+This project is developing a standalone software suite to capture complex network and contextual data crucial for understanding population dynamics in disease control for HIV and Drug Research.
+Past projects
+Wikipedia’s Networks and Geographies: Representation and Power in Peer-Produced Content
+Participants: Dr Han-Teng Liao, Dr Bernie Hogan, Professor Mark Graham, Dr Scott A. Hale, Dr Heather Ford
+This project brings together OII research fellows and doctoral students to shed light on the incorporation of new users and information into the Wikipedia community.
+College Connect
+Participants: Dr Bernie Hogan, Joshua Melville, Dr Nicole Ellison, Dr Christine Greenhow
+College Connect is webpage that visualizes social networks automatically from Facebook and puts them to work for the user. The target market of the application is prospective college students as well as those just entering college or university.
+Who represents the Arab world online? Mapping and measuring local knowledge production and representation in the Middle East and North Africa
+Participants: Dr Bernie Hogan, Professor Mark Graham, Richard Farmbrough, Clarence Singleton, Dr Heather Ford, Dr Ilhem Allagui, Dr Ali Frihida, Ahmed Medhat Mohamed
+Using Wikipedia to explore the participation gap between those who have their say, and those whose voices are pushed to the side, in representations of the Arab world online.
+Knowledge Exchange Networks: A Case Study in the Efficacy of Interactive Visualization
+Participants: Dr Bernie Hogan, Dr Monica Bulger, Joshua Melville
+Knowledge exchange implies forging, facilitating and fostering social connections. Oxford's Knowledge Exchange Network addresses this need among university staff and external stakeholders. We assist the KE Network through interactive network mapping.
+Me, My Spouse and the Internet: Meeting, Dating and Marriage in the Digital Age
+Participants: Professor William H. Dutton, Dr Bernie Hogan, Dr Nai Li, Dr Grant Blank, Dr Monica Whitty
+The project uses survey data from Australian and UK couples to look at the significance and impact of the Internet on intimate relationships, including how people use ICTs to meet each other and maintain relationships, and how ICTs affect their behaviour.

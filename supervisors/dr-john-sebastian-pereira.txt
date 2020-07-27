@@ -1,0 +1,25 @@
+About
+I am a Senior Lecturer at Kingston Business School, I lecture on a range of Accounting and Finance modules across undergraduate and postgraduate programmes and specialize in delivering workshops and seminars aimed at leveraging the power of Bloomberg software for advanced financial analysis. I am also the Bloomberg academic leader in-charge of development, training and delivery of Bloomberg programmes at Kingston. I am also the Course Director for Bachelor in Business Administration (BBA) programme and the Liason Officer for our collaborative partners institution SVKM-IIS (India).
+My principal research interests are in the areas of corporate reporting, credit risk modelling, bank risk and corporate disclosure.
+I have experience of being an External Examiner and External panel member for Accounting & Finance courses and have represented the Lecturer constituency at the University Senate Committee. I am also the co-recipient of the CIMA seedcorn ECR grant for £7841 in 2018. Measuring and modelling corporate credit risk dynamics using credit default swap instruments.
+Islamic banking and conventional banking: differences and similarities.
+The effect of supervisory enforcement actions in the banking sector.
+Corporate reporting and disclosure practices in financial and non-financial institutions.
+The drivers and benefits of Integrated reporting.
+Publications
+Jump to: Article | Conference or Workshop Item | Thesis
+Number of items: 10.
+Article
+Pereira, John, Malafronte, Irma, Sorwar, Ghulam and Nurullah, Mohamed (2019) Enforcement actions, market movement and depositors' reaction : evidence from the US banking system. Journal of Financial Services Research, 55(2-3), pp. 143-165. ISSN (print) 0920-8550
+Busco, Cristiano, Malafronte, Irma, Pereira, John and Starita, Maria Grazia (2019) The determinants of companies' levels of integration : does one size fit all? The British Accounting Review, 51(3), pp. 277-298. ISSN (print) 0890-8389
+Pereira, John, Sorwar, Ghulam and Nurullah, Mohamed (2018) What drives corporate CDS spreads? A comparison across US, UK and EU firms. Journal of International Financial Markets, Institutions and Money, 56, pp. 188-200. ISSN (print) 1042-4431
+Malafronte, Irma, Starita, Maria Grazia and Pereira, John (2018) The effectiveness of risk disclosure practices in the European insurance industry. Review of Accounting and Finance, 17(1), pp. 130-147. ISSN (print) 1475-7702
+Sorwar, Ghulam, Pappas, Vasileios, Pereira, John and Nurullah, Mohamed (2016) To debt or not to debt : are Islamic banks less risky than conventional banks? Journal of Economic Behavior & Organization, 132(Suppl), pp. 113-126. ISSN (print) 0167-2681
+Conference or Workshop Item
+Malafronte, Irma, Pereira, John, Starita, Maria Grazie and Busco, Cristiano (2016) Integrated reporting and thinking: an empirical analysis of STOXX Europe 600 firms. In: Integrated Thinking & Reporting in Practice; 17-18 Nov 2016, Rome, Italy. (Unpublished)
+Malafronte, Irma, Nurullah, Mohamed, Pereira, John and Sorwar, Ghulam (2016) Enforcement actions, market movement and depositors’ reaction: evidence from the US banking system. In: 6th International Conference of the Financial Engineering and Banking Society: Banking, Finance and Institutions: Stability and Risk; 10-12 Jun 2016, Malaga, Spain. (Unpublished)
+Pereira, John, Nurullah, Mohamed and Sorwar, Ghulam (2015) Effect of policy announcements on US and UK corporate CDS returns during the financial crisis. In: Behavioural Finance Working Group Conference: Financial Regulation; 11-12 Jun 2015, London, U.K.. (Unpublished)
+Pereira, John, Nurullah, Mohamed and Sorwar, Ghulam (2014) What drives corporate CDS spreads? A comparison across US, UK and Eurozone markets. In: European Financial Management Association (EFMA) 23rd Annual Meeting; 25-28 Jun 2014, Rome, Italy.
+Thesis
+Pereira, John (2015) An empirical investigation of corporate credit default swap spreads and returns. (PhD thesis), Kingston University, .
+This list was generated on Mon Jul 20 04:58:12 2020 BST.

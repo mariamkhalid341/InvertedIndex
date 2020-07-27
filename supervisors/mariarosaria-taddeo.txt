@@ -1,0 +1,34 @@
+PROFILE
+Mariarosaria Taddeo is Senior Researcher Fellow at the Oxford Internet Institute and Deputy Director of the Digital Ethics Lab.  She is also a Faculty Fellow at the Alan Turing Institute.
+Dr Taddeo is a philosopher working on the ethics of digital technologies. Her most recent work focuses on Digital ethics, spanning from Ethics of AI to Ethical analysis of Cybersecurity practices, Cyber Conflicts, and Ethics of Data Science. Her area of expertise is Philosophy and Ethics of Information, although she has published in areas like Epistemology, Logic, and Philosophy of AI.
+Dr Taddeo’s work has been published in major research journals, like Nature, Nature Machine Intelligence, Science, and Science Robotics, Philosophical Transaction of the Royal Society A. She has published extensively on online trust, ethics of cyber conflicts, cyber deterrence, the use of artificial intelligence (AI) for national defence, and AI for social good. A complete list of her publications can be found on her Google Scholar profile.
+Dr Taddeo is Principal Investigator or Co-Principal Investigator on a number of research project ranging from the ethical challenges of the use of AI for national defence, socially good uses of AI, AI to advance Sustainable Development Goals.
+In 2018, ORBIT listed her among the 100 experts working on AI in world. In the same year, she has been listed among the top 50 most inspiring Italian women working in digital technologies. Dr Taddeo has been awarded The Simon Award for Outstanding Research in Computing and Philosophy; and the World Technology Award for Ethics acknowledging the originality and her research on the ethics of cyber conflicts, and the social impact of the work that she developed in this area.
+Since 2016, Taddeo serves as editor-in-chief of Minds & Machines (SpringerNature), in the executive editorial board of Philosophy & Technology (SpringerNature).
+Before joining the OII, Taddeo was Research Fellow in Cyber Security and Ethics at the Department of Politics and International Studies, University of Warwick. From 2010 to 2012 she held a Marie Curie Fellowship at the University of Hertfordshire, where she was working on information warfare and its ethical implications.
+She holds a PhD (Doctor Europeus) in Philosophy from the University of Padua. Her PhD thesis focused on the epistemic and ethical implications of trust in artificial systems.
+Research focus
+Digital Ethics, Philosophy of Information, Philosophy of Technology, Ethics of Cyber Conflicts and Cybersecurity
+Positions held at the OII
+Research Fellow, October 2017-2020
+Researcher, January 2015 – October 2017
+  Profile
+Research
+Publications
+Videos
+News
+Events
+Blog
+Press
+Integrity
+RESEARCH
+Past projects
+PETRAS: Internet of Things (IoT) Research Hub
+Participants: Professor Luciano Floridi, Dr Brent Mittelstadt, Dr Mariarosaria Taddeo
+The PETRAS IoT Research Hub is a consortium of 9 UK universities working together to explore critical issues in privacy, ethics, trust, reliability, acceptability, and security.
+Landscaping Strategic Cyber Deterrence
+Participants: Dr Mariarosaria Taddeo
+This is an inter-divisional and multidisciplinary eight-month pilot study devoted to landscape the problem space and the future research on strategic cyber deterrence (SCD).
+An Ethical Framework for the New Civic Responsibilities of Online Service Providers
+Participants: Professor Luciano Floridi, Dr Mariarosaria Taddeo
+This project aims to analyse the new civic responsibilities of Online Service Providers, and the policies regulating them.

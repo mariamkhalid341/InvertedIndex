@@ -1,0 +1,23 @@
+Biography
+Dr Alireza Daneshkhah is an Assistant Professor in Bayesian Statistics and Machine Learning. He is course director of MSc Data Science and Computational Intelligence, and a core member of Coventry research centre in Data Science. Dr Daneshkhah received his PhD degree from the University of Warwick for a thesis titled "Estimation in causal graphical models". Prior to his current position, he was a member of the Warwick Centre for Predictive Modelling where he has developed deep learning methods to probabilistically simulate highly complex systems.  He also served a course director of Utility asset management at Water Institute of Cranfield University. His primary research is in Bayesian elicitation of expert’s probabilistic statements and model structure; modelling high-dimensional data using Bayesian networks, Dynamic Bayesian networks, and Pair-copula Bayesian network models;  and simulating highly complex Engineering and Environmental  systems using Gaussian process emulators and Deep learning approaches. He has applied these methods to a wide range of applications including urban and coastal flood modelling, health, economics, decision-making under uncertainty and risk assessment of networked systems.
+He has served as principal investigator, collaborator and researcher to several EPSRC, NHS, NERC, DEFRA, and industrial-based research projects in developing various Bayesian Machine Learning methods in tackling highly complex engineering and environmental case studies in the presence of both limited and Big Data.
+Dr Alireza Daneshkhah is co-author of three books in expert judgment, advanced reliability methods, and digital twins and has an established list of published journal papers, book chapters and conference communications to his name. Dr Alireza Daneshkhah  is a fellow of the Royal Statistical Society, a member of International Society of Bayesian Analysis, and  an associate of Institute of Mathematics and its Applications.
+  Research Interests
+Bayesian Statistics
+Simulating/approximating complex systems using Gaussian processes
+Modelling big data using Bayesian network (BN), Dynamic BN, and multivariate copula models.
+Probabilistic sensitivity ananlysis and Bayesian uncertainty quantification
+Deep learning using Deep Gaussian process, and deep AI methods;
+Risk assessment and Reliability analysis of complex industrial and environmental systems;
+Elicitation of expert knowledge and opinions;
+Modelling and forecasting extreme climatic events using Machine Learning and AI methods.
+Simulation Methodologies for Autonomous Vehicle
+  Teaching Modules
+321MP - Bayesian Statistics
+7088CEM - Artificial Neutral Networks
+7135CEM -  Modelling and Optimisation Under Uncertainty
+221MP - Statistical Computing
+320MP - Statistical Design and Modelling
+PhD Project
+I am currently supervising several PhD students both within the Faculty centre of Data Science and jointly with other research centres. My main focus is on topics in Deep laerning using Deep Gaussain process, Probabilstic Uncertainty quantification and Sensitivity analysis, and modelling Big Data using Graphical models (particularly, Bayesian networks) and multivariate copulas (known as pair-copula vine) with wide range of applications, including modelling disease data, topic modelling for precision medicine, abetes type I data with various complications, modelling and forecasting extreme climatic events, catastrohe modelling,  simulation methodologies for Autonomous Vehicle, etc.
+ 

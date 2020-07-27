@@ -1,0 +1,50 @@
+PROFILE
+Brent Mittelstadt is a Senior Research Fellow and British Academy Postdoctoral Fellow in data ethics at the Oxford Internet Institute, a Turing Fellow at the Alan Turing Institute, and a member of the UK National Statistician’s Data Ethics Advisory Committee. He is an ethicist focusing on auditing, interpretability, and ethical governance of complex algorithmic systems.
+Brent also coordinates the Governance of Emerging Technologies (GET) research programme at the OII, which investigates ethical, legal, and technical aspects of AI, machine learning, and other emerging technologies.
+His research concerns primarily digital ethics in relation to algorithms, machine learning, artificial intelligence, predictive analytics, Big Data, and medical expert systems. Currently, he is examining the feasibility of ethical auditing of decision-making algorithms, and the development of standards and methods to ensure fairness, accountability, transparency, interpretability and group privacy in ‘black box’ algorithmic systems. His work has also recently crossed into the field of data protection and privacy law, in particular concerning the implications of the EU General Data Protection Regulation on the governance of AI and automated decision-making systems.
+Previously, he has been part of the EPSRC’s PETRAS IoT Hub, to develop ethical guidelines for designing the health-related Internet of Things, and led research on the ‘Ethics of Biomedical Big Data’ project at the University of Oxford. His doctoral research examined the ethical implications of personal health monitoring devices, in particular how these devices introduce medical concerns into private spaces and undermine ‘internal goods’ of traditional medical relationships.
+Research and supervision interests:
+Data ethics, data protection law, artificial intelligence, machine learning, medical expert systems, Big Data, predictive analytics, profiling, technology governance, epistemology
+Positions held at the OII
+Senior Research Fellow, Sept 2019 –
+Research Fellow & British Academy Postdoctoral Fellow, January 2018 – August 2019
+Research Associate, February 2017 – December 2017
+Postdoctoral Research Fellow, October 2014 – February 2017 Profile
+Research
+Publications
+Teaching
+Videos
+News
+Events
+Blog
+Press
+RESEARCH
+Current projects
+A Right to Reasonable Inferences in Advertising and Financial Services
+Participants: Professor Sandra Wachter, Dr Brent Mittelstadt, Dr Silvia Milano, Dr Johann Laux, Dr Chris Russell
+This project uses legal and ethical analysis to establish the requirements for applying a ‘right to reasonable inferences’ in Europe to protect against privacy-invasive and discriminatory automated decision-making in advertising and financial services.
+Ethical auditing for automated decision-making
+Participants: Brent Mittelstadt
+This project defines requirements for ethical auditing of automated decision-making systems.
+Explaining black-box decisions
+Participants: Professor Sandra Wachter, Dr Brent Mittelstadt, Dr Chris Russell
+This project transforms the concept of counterfactual explanations into a practically useful tool for explaining automated black-box decisions.
+Past projects
+PETRAS: Internet of Things (IoT) Research Hub
+Participants: Professor Luciano Floridi, Dr Brent Mittelstadt, Dr Mariarosaria Taddeo
+The PETRAS IoT Research Hub is a consortium of 9 UK universities working together to explore critical issues in privacy, ethics, trust, reliability, acceptability, and security.
+Explainable and accountable algorithms and automated decision-making in Europe
+Participants: Professor Sandra Wachter, Dr Brent Mittelstadt
+This project investigates transparency mechanisms and the technical possibility of offering individuals explanations of automated decisions.
+Real world outcomes across the Alzheimer’s Disease spectrum for better care: Multi-modal data access platform (ROADMAP)
+Participants: Professor Luciano Floridi, Dr Brent Mittelstadt, Dr Andrew Turner, Dr Jenny Krutzinna
+ROADMAP aims to create the conditions for an open collaboration among stakeholders that yields consensual and efficient uses of real world evidence for the benefit of Alzheimer's Disease patients and their caregivers.
+Ethical Auditing for Accountable Automated Decision-Making
+Participants: Dr Sandra Wachter, Dr Brent Mittelstadt
+This project aims to ensure that automated decision-making systems remain accountable and comprehensible to the individuals affected by their decisions.
+Data Financing for Global Good: A Feasibility Study
+Participants: Professor Vili Lehdonvirta, Dr Brent Mittelstadt, Dr Greg Taylor, Yin Yin Lu, Artem Kadikov, Professor Helen Margetts
+This project, and the resulting report, provides a first step in the assessment of data financing as a mechanism for social good in the data economy.
+Ethics of Biomedical Big Data
+Participants: Professor Luciano Floridi, Dr Brent Mittelstadt
+This project seeks to investigate the ethical aspects and requirements of Big Data in preparation to develop a European framework for the ethical use of Big Data in biomedical research.

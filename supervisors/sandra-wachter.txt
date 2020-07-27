@@ -1,0 +1,44 @@
+PROFILE
+Professor Sandra Wachter is an Associate Professor and Senior Research Fellow in Law and Ethics of AI, Big Data, and robotics as well as Internet Regulation at the Oxford Internet Institute at the University of Oxford. Wachter is specialising in technology-, IP-, data protection and non-discrimination law as well as European-, International-, (online) human rights,- and medical law. Her current research focuses on the legal and ethical implications of AI, Big Data, and robotics as well as profiling, inferential analytics, explainable AI, algorithmic bias, diversity, and fairness, governmental surveillance, predictive policing, and human rights online.
+At the OII, Professor Sandra Wachter also coordinates the Governance of Emerging Technologies (GET) Research Programme that investigates legal, ethical, and technical aspects of AI, machine learning, and other emerging technologies.
+Wachter is also a Fellow at the Alan Turing Institute in London, a Fellow of the World Economic Forum’s Global Futures Council on Values, Ethics and Innovation, a Faculty Associate at The Berkman Klein Center for Internet & Society at Harvard University, an Academic Affiliate at the Bonavero Institute of Human Rights at Oxford’s Law Faculty, a Member of the European Commission’s Expert Group on Autonomous Cars, and a member of the Law Committee of the IEEE. Prior to joining the OII, Wachter studied at the University of Oxford and the Law Faculty at the University of Vienna and worked at the Royal Academy of Engineering and at the Austrian Ministry of Health.
+Professor Sandra Wachter serves as a policy advisor for governments, companies, and NGO’s around the world on regulatory and ethical questions concerning emerging technologies. Her work has been featured in (among others) The New York Times, Financial Times, Forbes, Harvard Business Review, The Guardian, BBC, The Telegraph, Wired, CNBC, CBC, Huffington Post, Science, Nature, New Scientist, FAZ, Die Zeit, Le Monde, HBO, Engadget, El Mundo, The Sunday Times, The Verge, Vice Magazine, Sueddeutsche Zeitung, and SRF.
+In 2018 she won the ‘O2RB Excellence in Impact Award’ and in 2017 the CognitionX ‘AI superhero Award’ for her contributions in AI governance. In 2019, Wachter won the Privacy Law Scholar (PLSC) Junior Scholars Award for her paper A Right to Reasonable Inferences: Re-Thinking Data Protection Law in the Age of Big Data and AI. Her current project “AI and the Right to Reasonable Algorithmic Inferences”, supported by the British Academy aims to find mechanisms that provide greater protection to the right to privacy and identity, and against algorithmic discrimination.
+Professor Sandra Wachter works on the governance and ethical design of algorithms, including the development of standards to open-up the AI Blackbox and to increase accountability, transparency, and explainability. Wachter also works on ethical auditing methods for AI to combat bias and discrimination and to ensure fairness and diversity with a focus on non-discrimination law. Group privacy, autonomy, and identity protection in profiling and inferential analytics are also on her research agenda.
+Wachter is also interested in legal and ethical aspects of robotics (e.g. surgical, domestic and social robots) and autonomous systems (e.g. autonomous and connected cars), including liability, accountability, and privacy issues as well as international policies and regulatory responses to the social and ethical consequences of automation (e.g. future of the workforce, workers’ rights).
+Internet policy and regulation as well as cyber-security issues are also at the heart of her research, where she addresses areas such as online surveillance and profiling, censorship, intellectual property law, and human rights online. Areas such as mass surveillance methods and its compatibility with the jurisprudence of the European Court of Human Rights and the European Court of Justice as well as tensions between freedom of speech and the right to privacy on social networks are of particular interest.
+Previous work also looked at (bio) medical law and bio ethics in areas such as interventions in the genome and genetic testing under the Convention on Human Rights and Biomedicine.
+Research Interests
+Data Ethics; Big Data; AI; machine learning; algorithms; robotics; privacy; data protection-, IP- and technology law; fairness, algorithmic bias, explainability, European, -International-, human rights,- non-discrimination law; governmental (algorithmic) surveillance; emotion detection; predictive policing; Internet regulation; cyber-security; (bio)-medical law.
+Position held at the OII
+Associate Professor, April 2019 –
+Senior Research Fellow, March 2019 –
+Research Fellow, February 2018 – March 2019
+Postdoctoral Researcher, February 2017 – January 2018
+Member of the Departmental Research Ethics Committee, February 2018 – Profile
+Research
+Publications
+Videos
+News
+Events
+Blog
+Press
+Integrity
+RESEARCH
+Current projects
+AI and the Right to Reasonable Algorithmic Inferences
+Participants: Professor Sandra Wachter
+The project will identify weaknesses in general and sectoral regulatory mechanisms - e.g. the limited protections afforded to inferences in data protection law - and argue for greater accountability by establishing a ‘right to reasonable inferences'.
+A Right to Reasonable Inferences in Advertising and Financial Services
+Participants: Professor Sandra Wachter, Dr Brent Mittelstadt, Dr Silvia Milano, Dr Johann Laux, Dr Chris Russell
+This project uses legal and ethical analysis to establish the requirements for applying a ‘right to reasonable inferences’ in Europe to protect against privacy-invasive and discriminatory automated decision-making in advertising and financial services.
+Explaining black-box decisions
+Participants: Professor Sandra Wachter, Dr Brent Mittelstadt, Dr Chris Russell
+This project transforms the concept of counterfactual explanations into a practically useful tool for explaining automated black-box decisions.
+Past projects
+Explainable and accountable algorithms and automated decision-making in Europe
+Participants: Professor Sandra Wachter, Dr Brent Mittelstadt
+This project investigates transparency mechanisms and the technical possibility of offering individuals explanations of automated decisions.
+Ethical Auditing for Accountable Automated Decision-Making
+Participants: Dr Sandra Wachter, Dr Brent Mittelstadt
+This project aims to ensure that automated decision-making systems remain accountable and comprehensible to the individuals affected by their decisions.

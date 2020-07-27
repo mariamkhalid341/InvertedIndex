@@ -1,0 +1,86 @@
+PROFILE
+Ralph Schroeder was formerly Professor in the School of Technology Management and Economics at Chalmers University in Gothenburg (Sweden). He completed his PhD about Max Weber at the LSE in 1988. His publications include Rethinking Science, Technology and Social Change (Stanford University Press, 2007) and Being There Together: Social Interaction in Virtual Environments (Oxford University Press, 2010). He is also the author of ‘An Age of Limits: Social Theory for the 21st Century’ (Palgrave Macmillan 2013) and, with Eric T. Meyer, of ‘Knowledge Machines: Digital Transformations of the Sciences and Humanities’ (MIT Press 2015).
+His most recent book is ‘Social Theory after the Internet‘ and he is also working on big data in the social sciences.
+Areas of Interest for Doctoral Supervision
+Big data, virtual environments, digital media, right-wing populism
+Research interests
+Virtual environments, big data, digital media, right-wing populism, sociology of science and technology
+Positions held at the OII
+MSc Programme Director, July 2018 –
+Senior Research Fellow, January 2009 –
+MSc Programme Director, January 2009 – October 2016
+Director of Research, October 2009 – September 2012
+James Martin Research Fellow, September 2004 – December 2008
+Students supervised at the OII
+Current students
+Thomas Flavel
+Past students
+Dr Tobias Escher
+Dr Han-Teng Liao
+Dr Lucy Power Profile
+Research
+Publications
+Teaching
+Videos
+News
+Events
+Blog
+Press
+Integrity
+RESEARCH
+Current projects
+What Do ‘the People’ Want? Analysing Online Populist Challenges to Europe
+Participants: Dr Sebastian Stier , Prof Ralph Schroeder, Dr Caterina Froio
+Digital media allow populist messages to gain circulation, bypassing mainstream channels. This project aims to understand how widespread and impactful such messages are among the general public.
+Past projects
+SciShops: Enhancing the Responsible and Sustainable Expansion of the Science Shops Ecosystem in Europe
+Participants: Professor Ralph Schroeder
+This project aims to expand and build upon the Science Shop ecosystem that currently exists in Europe and beyond.
+Data for Policy
+Participants: Professor Ralph Schroeder, Professor Eric T. Meyer
+A study of big data and other innovative data-driven approaches for evidence-informed policy making.
+Big UK Domain Data for the Arts and Humanities
+Participants: Professor Ralph Schroeder, Professor Eric T. Meyer, Josh Cowls
+The Big UK Domain Data for the Arts and Humanities project works with data derived from the UK domain crawl from 1996 to 2013, in order to develop a framework for the study of web archive data and produce a major history of the UK web space.
+Big Data for Advancing Dementia Research
+Participants: Professor Ralph Schroeder, Professor Eric T. Meyer, Ulrike Deetjen
+The aim of this study is to undertake an in-depth examination of the practices in data sharing to advance the science of dementia and other age-related neurodegenerative diseases.
+Accessing and Using Big Data to Advance Social Science Knowledge
+Participants: Professor Ralph Schroeder, Professor Eric T. Meyer, Dr Linnet E. M. Taylor, Josh Cowls
+The project will follow 'big data' from its public and private origins through open and closed pathways into the social sciences, and document and shape the ways they are being accessed and used to create new knowledge about the social world.
+Data-driven economic models: challenges and opportunities of big data
+Participants: Professor Ralph Schroeder, Dr Greg Taylor, Dr Monica Bulger
+The aim of this study is to identify key challenges to the realisation of benefits from big data in the UK economy, along with pathways to overcoming these challenges.
+OeSS: The Oxford e-Social Science Project
+Participants: Professor William H. Dutton, Professor Paul Allan David, Professor Ralph Schroeder, Dr Marina Jirotka, Dr Annamaria Carusi, Dr Matthijs den Besten, Professor Eric T. Meyer, Dr Kathryn Eccles, Professor Christopher Millard, Professor Michael Parker, Dr Justine Pila, Professor Tina Piper, Dr Michael Spence, Professor David Vaver
+The Oxford e-Social Science project aims to understand how e-Research projects negotiate various social, ethical, legal and organizational forces and constraints, in order to help researchers avoid these problems when building scientific collaborations.
+Physical Science Information Practices
+Participants: Professor Ralph Schroeder, Dr Marina Jirotka, Dr Annamaria Carusi, Professor Eric T. Meyer, Dr Lucy Power, Dr Monica Bulger, Dr Andrea Scharnhorst, Dr Will Venters, Dr Monica Bulger, Dr Melissa Terras, Dr Sally Wyatt, Avgousta Kyriakidou, Peter Williams
+Exploring the information seeking, organizing, archiving and communicating capacities of physical sciences communities as a study case (and role model) for effective information processing regimes and behaviours in complex problem-solving tasks.
+Using Web Archives: A Futures Perspective
+Participants: Professor Ralph Schroeder, Dr Arthur Thomas, Professor Eric T. Meyer
+Web archives are the best hope for future researchers to understand the web of yesterday and today, but efforts to ensure that archives will be useful are lagging. This report asks what challenges web archives face, and suggests how to address them.
+Humanities Information Practices
+Participants: Professor Ralph Schroeder, Dr Marina Jirotka, Dr Annamaria Carusi, Professor Eric T. Meyer, Dr Christine Madsen, Tim Davies, Dr Kathryn Eccles, Dr Monica Bulger, Grace de la Flor, Dr Tim Webmoor, Dr Claire Warwick, Dr Melissa Terras, Dr Sally Wyatt, Smiljana Antonijevic, Dr Anne Beaulieu
+Many humanities scholars are enthusiastic users of digital resources, however there is a potential mismatch between what (and how) resources are offered, and how scholars might use them. How should they be designed to ensure maximum use by scholars?
+PEACH: Presence Research in Action
+Participants: Professor Ralph Schroeder, Malte Ziewitz, Professor Eric T. Meyer
+Presence research focuses on understanding and controlling the cognitive experience of being somewhere, or someone: we are analysing social impact scenarios to raise and address potential ethical and policy issues relating to Presence technologies.
+eResearch 2020
+Participants: Professor Ralph Schroeder, Professor Eric T. Meyer, Dr Kathryn Eccles
+Aiming to better understand the organizational, collaborative and technological developments in e-Infrastructures which are effective in supporting virtual research organizations in different fields.
+Digitised Resources: A Usage and Impact Study
+Participants: Professor William H. Dutton, Professor Ralph Schroeder, Professor Mike Thelwall, Professor Eric T. Meyer, Dr Christine Madsen, Dr Kathryn Eccles
+This project combined quantitative and qualitative indicators to measure the impact of online scholarly resources and to develop a best practices toolkit that allows assessment of the impact of digitisation projects by researchers and funding bodies.
+The e-Horizons Institute
+Participants: Professor William H. Dutton, Professor Paul Allan David, Professor Ralph Schroeder, Dr Marina Jirotka, Professor Anne Trefethen, Professor Paul Jeffreys, Professor Eric T. Meyer
+The e-Horizons Institute researched the coming technological breakthroughs in e-science that will have cross-sector social and economic implications as they are taken up by business, government and other actors.
+Embedding e-science applications: designing and managing for usability
+Participants: Professor Ralph Schroeder, Dr Marina Jirotka, Professor Anne Trefethen, Grace de la Flor, Sharon Lloyd, Mustafizur Rahman, Dr Monica Schraefel, Dimitrina Spencer, Andrew Warr
+The 'embedding e-science applications' project addressed the difficulty of managing requirements for usability in e-science projects, and developing collaborative approaches to system development that allow for communication of these requirements.
+World Wide Web of Humanities
+Participants: Professor William H. Dutton, Professor Ralph Schroeder, Dr Robert Ackland, Professor Eric T. Meyer, Dr Christine Madsen
+Establishing a framework for e-Humanities research using available open source tools and technologies and archived web content to create novel research interfaces to the first of many, scholarly, e-Humanities web collections.
+The World Wide Web of Science: emerging global sources of expertise
+Participants: Professor William H. Dutton, Professor Ralph Schroeder, Professor Alexandre Caldas
+The World Wide Web of Science project assesses whether, and to what extent, the Internet and the Web are transforming access to sources of scientific expertise, and whether these sources are becoming more concentrated or more diversified.
